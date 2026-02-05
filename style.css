@@ -18,5 +18,9 @@ body {
 	border-style: outset;
 	margin-left: 225px;
 	margin-top: 100px;
-	
+	transition: all 1s;
+}
+
+.bex:hover {
+	scale: 1.5;
 }
