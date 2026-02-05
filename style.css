@@ -15,7 +15,8 @@ body {
 	background: pink;
 	border-radius: 50px;
 	border-width: thick;
-	border-style: groove;
+	border-style: outset;
 	margin-left: 225px;
 	margin-top: 100px;
+	
 }
